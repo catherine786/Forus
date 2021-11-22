@@ -1,0 +1,13 @@
+
+		.fullstar{
+			border:0px;
+			background-color:transparent;
+			color:gold;
+			font-size:30px;
+			cursor:pointer;
+		}
+		
+		.fullstar:hover{
+			font-size:35px;
+		}
+		
